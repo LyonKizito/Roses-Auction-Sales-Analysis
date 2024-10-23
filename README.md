@@ -48,7 +48,7 @@ The dashboard tracks the performance of roses by variety, stem length, and shipm
 ---
 
 ## Screenshots
-![Dashboard Screenshot](relative-path-to-screenshot.png)
+![Dashboard Screenshot](Roses_sales_analysis.png)
 
 ---
 
